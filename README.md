@@ -1,4 +1,4 @@
 # nodejs-concepts
 Second challenge about nodejs concepts. A coder portfolio app.
 ##
-API code for an code repository manager backend.
+API code for an repository portfolio manager.
